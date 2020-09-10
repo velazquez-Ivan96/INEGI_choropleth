@@ -6,6 +6,7 @@ The purpose of this task is to visualize the average years of education in Mexic
 
 * Use of geopandas
 * Use of Leaflet.js
+* Manipulation of INEGI data(shape files)
 
 ## Built with 
 
@@ -13,5 +14,7 @@ The purpose of this task is to visualize the average years of education in Mexic
 * Python
 
 ## Outcomes
+
+Choropleth map showing the average years of education in Mexico by municipality
 
 ![Choropleth.png](INEGI_education/Choropleth.png)
